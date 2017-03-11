@@ -3,7 +3,7 @@ Javascript Projects - meteor, react, Angular2, Node.js
 
 1. (App 1 - Meteor + React) Creating a To-Do list application with collaboration of multiple people on the tasks. 
 Important concepts:
-- Hot Code Push - Updating the HTML file and saving it, displays the changes on the browser page in real time! No need to reload the page. 
+- Hot Code Push - Updating any file or making changes to the database, displays the changes on the browser page in real time! No need to reload the page. 
 
 Install Meteor (OSX/ Linux): curl https://install.meteor.com/ | sh
 
@@ -14,7 +14,7 @@ Install Meteor (OSX/ Linux): curl https://install.meteor.com/ | sh
   - meteor 
 
 The application would be running at http://localhost:3000/
-
+- If you open multiple browsers with this URL and update the list, you will notice that the list gets updated across all browsers.
 
   
 
